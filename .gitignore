@@ -3,3 +3,8 @@
 
 # Local VerySync metadata / archive
 /.verysync/
+
+# Local workflow / Obsidian metadata; keep only on this computer
+/.agent-guides/
+/.obsidian/
+/AGENTS.md
