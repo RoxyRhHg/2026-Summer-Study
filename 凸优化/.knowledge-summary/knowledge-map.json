@@ -1,0 +1,3519 @@
+{
+  "schema_version": 2,
+  "course_name": "凸优化",
+  "structure_origin": "S001:contents",
+  "global_notes": {
+    "structure_note": "全书结构.md",
+    "notation_note": "记号.md"
+  },
+  "authoring_options": {
+    "allow_template_headings": false,
+    "allow_legacy_course_files": false
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "优化导论",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:1"
+      ],
+      "mind_map": "1 优化导论/1.0 优化导论思维导图.md",
+      "sections": [
+        {
+          "number": "1.1",
+          "title": "数学优化",
+          "source_ranges": [
+            "S001:chapter:1.1"
+          ],
+          "target_note": "1 优化导论/1.1 数学优化.md",
+          "knowledge_points": [
+            {
+              "id": "K1.1.01",
+              "title": "数学优化问题",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.1"
+              ]
+            },
+            {
+              "id": "K1.1.02",
+              "title": "优化问题的类别",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.1"
+              ]
+            },
+            {
+              "id": "K1.1.03",
+              "title": "问题能否求解取决于什么",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "1.2",
+          "title": "最小二乘与线性规划",
+          "source_ranges": [
+            "S001:chapter:1.2"
+          ],
+          "target_note": "1 优化导论/1.2 最小二乘与线性规划.md",
+          "knowledge_points": [
+            {
+              "id": "K1.2.01",
+              "title": "最小二乘问题",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.2"
+              ]
+            },
+            {
+              "id": "K1.2.02",
+              "title": "线性规划",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.2"
+              ]
+            },
+            {
+              "id": "K1.2.03",
+              "title": "最小二乘与线性规划的比较",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "1.3",
+          "title": "凸优化",
+          "source_ranges": [
+            "S001:chapter:1.3"
+          ],
+          "target_note": "1 优化导论/1.3 凸优化.md",
+          "knowledge_points": [
+            {
+              "id": "K1.3.01",
+              "title": "凸优化问题",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.3"
+              ]
+            },
+            {
+              "id": "K1.3.02",
+              "title": "凸优化的求解",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.3"
+              ]
+            },
+            {
+              "id": "K1.3.03",
+              "title": "使用凸优化的关键",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.3"
+              ]
+            },
+            {
+              "id": "K1.3.04",
+              "title": "发展脉络",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "1.4",
+          "title": "非线性优化",
+          "source_ranges": [
+            "S001:chapter:1.4"
+          ],
+          "target_note": "1 优化导论/1.4 非线性优化.md",
+          "knowledge_points": [
+            {
+              "id": "K1.4.01",
+              "title": "一般非线性优化",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.4"
+              ]
+            },
+            {
+              "id": "K1.4.02",
+              "title": "局部优化",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.4"
+              ]
+            },
+            {
+              "id": "K1.4.03",
+              "title": "全局优化",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.4"
+              ]
+            },
+            {
+              "id": "K1.4.04",
+              "title": "凸优化在非凸问题中的作用",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:1.4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "凸集",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:2"
+      ],
+      "mind_map": "2 凸集/2.0 凸集思维导图.md",
+      "sections": [
+        {
+          "number": "2.1",
+          "title": "仿射集与凸集",
+          "source_ranges": [
+            "S001:chapter:2.1"
+          ],
+          "target_note": "2 凸集/2.1 仿射集与凸集.md",
+          "knowledge_points": [
+            {
+              "id": "K2.1.01",
+              "title": "直线与线段",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.1"
+              ]
+            },
+            {
+              "id": "K2.1.02",
+              "title": "仿射集",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.1"
+              ]
+            },
+            {
+              "id": "K2.1.03",
+              "title": "仿射维数与相对内部",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.1"
+              ]
+            },
+            {
+              "id": "K2.1.04",
+              "title": "凸集",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.1"
+              ]
+            },
+            {
+              "id": "K2.1.05",
+              "title": "锥与凸锥",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "2.2",
+          "title": "重要例子",
+          "source_ranges": [
+            "S001:chapter:2.2"
+          ],
+          "target_note": "2 凸集/2.2 重要例子.md",
+          "knowledge_points": [
+            {
+              "id": "K2.2.01",
+              "title": "基本集合",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.2"
+              ]
+            },
+            {
+              "id": "K2.2.02",
+              "title": "超平面与半空间",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.2"
+              ]
+            },
+            {
+              "id": "K2.2.03",
+              "title": "欧氏球与椭球",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.2"
+              ]
+            },
+            {
+              "id": "K2.2.04",
+              "title": "范数球与范数锥",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.2"
+              ]
+            },
+            {
+              "id": "K2.2.05",
+              "title": "多面体与单纯形",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.2"
+              ]
+            },
+            {
+              "id": "K2.2.06",
+              "title": "半正定锥",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "2.3",
+          "title": "保持凸性的运算",
+          "source_ranges": [
+            "S001:chapter:2.3"
+          ],
+          "target_note": "2 凸集/2.3 保持凸性的运算.md",
+          "knowledge_points": [
+            {
+              "id": "K2.3.01",
+              "title": "判断集合凸性的三条路线",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.3"
+              ]
+            },
+            {
+              "id": "K2.3.02",
+              "title": "集合的交",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.3"
+              ]
+            },
+            {
+              "id": "K2.3.03",
+              "title": "仿射映射",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.3"
+              ]
+            },
+            {
+              "id": "K2.3.04",
+              "title": "透视映射",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.3"
+              ]
+            },
+            {
+              "id": "K2.3.05",
+              "title": "线性分式映射",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.3"
+              ]
+            },
+            {
+              "id": "K2.3.06",
+              "title": "保凸运算的使用顺序",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "2.4",
+          "title": "广义不等式",
+          "source_ranges": [
+            "S001:chapter:2.4"
+          ],
+          "target_note": "2 凸集/2.4 广义不等式.md",
+          "knowledge_points": [
+            {
+              "id": "K2.4.01",
+              "title": "正常锥（proper cone）",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.4"
+              ]
+            },
+            {
+              "id": "K2.4.02",
+              "title": "由锥定义广义不等式",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.4"
+              ]
+            },
+            {
+              "id": "K2.4.03",
+              "title": "偏序与全序的区别",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.4"
+              ]
+            },
+            {
+              "id": "K2.4.04",
+              "title": "最小元素与极小元素",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.4"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "2.5",
+          "title": "分离与支撑超平面",
+          "source_ranges": [
+            "S001:chapter:2.5"
+          ],
+          "target_note": "2 凸集/2.5 分离与支撑超平面.md",
+          "knowledge_points": [
+            {
+              "id": "K2.5.01",
+              "title": "分离超平面",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.5"
+              ]
+            },
+            {
+              "id": "K2.5.02",
+              "title": "最近点构造分离超平面",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.5"
+              ]
+            },
+            {
+              "id": "K2.5.03",
+              "title": "严格分离",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.5"
+              ]
+            },
+            {
+              "id": "K2.5.04",
+              "title": "仿射集与凸集的分离",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.5"
+              ]
+            },
+            {
+              "id": "K2.5.05",
+              "title": "支撑超平面",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.5"
+              ]
+            },
+            {
+              "id": "K2.5.06",
+              "title": "分离与支撑的区别",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.5"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "2.6",
+          "title": "对偶锥与广义不等式",
+          "source_ranges": [
+            "S001:chapter:2.6"
+          ],
+          "target_note": "2 凸集/2.6 对偶锥与广义不等式.md",
+          "knowledge_points": [
+            {
+              "id": "K2.6.01",
+              "title": "对偶锥",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.6"
+              ]
+            },
+            {
+              "id": "K2.6.02",
+              "title": "对偶广义不等式",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.6"
+              ]
+            },
+            {
+              "id": "K2.6.03",
+              "title": "严格广义不等式的交替定理",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.6"
+              ]
+            },
+            {
+              "id": "K2.6.04",
+              "title": "用对偶序刻画最小元素",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.6"
+              ]
+            },
+            {
+              "id": "K2.6.05",
+              "title": "用标量化寻找极小元素",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.6"
+              ]
+            },
+            {
+              "id": "K2.6.06",
+              "title": "Pareto 有效前沿",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:2.6"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "凸函数",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:3"
+      ],
+      "mind_map": "3 凸函数/3.0 凸函数思维导图.md",
+      "sections": [
+        {
+          "number": "3.1",
+          "title": "基本性质和例子",
+          "source_ranges": [
+            "S001:chapter:3.1"
+          ],
+          "target_note": "3 凸函数/3.1 基本性质和例子.md",
+          "knowledge_points": [
+            {
+              "id": "K3.1.01",
+              "title": "凸函数、严格凸函数与凹函数",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.1"
+              ]
+            },
+            {
+              "id": "K3.1.02",
+              "title": "扩展值与集合示性函数",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.1"
+              ]
+            },
+            {
+              "id": "K3.1.03",
+              "title": "一阶判定：切平面是全局下界",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.1"
+              ]
+            },
+            {
+              "id": "K3.1.04",
+              "title": "二阶判定",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.1"
+              ]
+            },
+            {
+              "id": "K3.1.05",
+              "title": "典型函数",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.1"
+              ]
+            },
+            {
+              "id": "K3.1.06",
+              "title": "次水平集、上图与 Jensen 不等式",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "3.2",
+          "title": "保持凸性的运算",
+          "source_ranges": [
+            "S001:chapter:3.2"
+          ],
+          "target_note": "3 凸函数/3.2 保持凸性的运算.md",
+          "knowledge_points": [
+            {
+              "id": "K3.2.01",
+              "title": "非负加权、仿射复合与逐点上确界",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.2"
+              ]
+            },
+            {
+              "id": "K3.2.02",
+              "title": "标量复合规则",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.2"
+              ]
+            },
+            {
+              "id": "K3.2.03",
+              "title": "向量复合",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.2"
+              ]
+            },
+            {
+              "id": "K3.2.04",
+              "title": "部分最小化",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.2"
+              ]
+            },
+            {
+              "id": "K3.2.05",
+              "title": "透视函数",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "3.3",
+          "title": "共轭函数",
+          "source_ranges": [
+            "S001:chapter:3.3"
+          ],
+          "target_note": "3 凸函数/3.3 共轭函数.md",
+          "knowledge_points": [
+            {
+              "id": "K3.3.01",
+              "title": "Fenchel 共轭",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.3"
+              ]
+            },
+            {
+              "id": "K3.3.02",
+              "title": "常用共轭对",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.3"
+              ]
+            },
+            {
+              "id": "K3.3.03",
+              "title": "Fenchel 不等式与双共轭",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.3"
+              ]
+            },
+            {
+              "id": "K3.3.04",
+              "title": "变换规则",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "3.4",
+          "title": "拟凸函数",
+          "source_ranges": [
+            "S001:chapter:3.4"
+          ],
+          "target_note": "3 凸函数/3.4 拟凸函数.md",
+          "knowledge_points": [
+            {
+              "id": "K3.4.01",
+              "title": "拟凸、拟凹与拟线性",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.4"
+              ]
+            },
+            {
+              "id": "K3.4.02",
+              "title": "例子",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.4"
+              ]
+            },
+            {
+              "id": "K3.4.03",
+              "title": "可微拟凸函数的判定",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.4"
+              ]
+            },
+            {
+              "id": "K3.4.04",
+              "title": "保持拟凸性的运算",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.4"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "3.5",
+          "title": "对数凹与对数凸",
+          "source_ranges": [
+            "S001:chapter:3.5"
+          ],
+          "target_note": "3 凸函数/3.5 对数凹与对数凸.md",
+          "knowledge_points": [
+            {
+              "id": "K3.5.01",
+              "title": "定义与层级关系",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.5"
+              ]
+            },
+            {
+              "id": "K3.5.02",
+              "title": "二阶条件",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.5"
+              ]
+            },
+            {
+              "id": "K3.5.03",
+              "title": "乘法、加法和积分",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.5"
+              ]
+            },
+            {
+              "id": "K3.5.04",
+              "title": "概率与几何含义",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.5"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "3.6",
+          "title": "关于广义不等式的凸性",
+          "source_ranges": [
+            "S001:chapter:3.6"
+          ],
+          "target_note": "3 凸函数/3.6 关于广义不等式的凸性.md",
+          "knowledge_points": [
+            {
+              "id": "K3.6.01",
+              "title": "锥序单调性",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.6"
+              ]
+            },
+            {
+              "id": "K3.6.02",
+              "title": "$K$-凸函数",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.6"
+              ]
+            },
+            {
+              "id": "K3.6.03",
+              "title": "对偶标量化与一阶条件",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:3.6"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "凸优化问题",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:4"
+      ],
+      "mind_map": "4 凸优化问题/4.0 凸优化问题思维导图.md",
+      "sections": [
+        {
+          "number": "4.1",
+          "title": "优化问题",
+          "source_ranges": [
+            "S001:chapter:4.1"
+          ],
+          "target_note": "4 凸优化问题/4.1 优化问题.md",
+          "knowledge_points": [
+            {
+              "id": "K4.1.01",
+              "title": "标准形式与最优值",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.1"
+              ]
+            },
+            {
+              "id": "K4.1.02",
+              "title": "等价变换",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.1"
+              ]
+            },
+            {
+              "id": "K4.1.03",
+              "title": "参数描述与 oracle 描述",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "4.2",
+          "title": "凸优化",
+          "source_ranges": [
+            "S001:chapter:4.2"
+          ],
+          "target_note": "4 凸优化问题/4.2 凸优化.md",
+          "knowledge_points": [
+            {
+              "id": "K4.2.01",
+              "title": "凸优化标准形式",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.2"
+              ]
+            },
+            {
+              "id": "K4.2.02",
+              "title": "局部最优就是全局最优",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.2"
+              ]
+            },
+            {
+              "id": "K4.2.03",
+              "title": "可微目标的一阶最优性条件",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.2"
+              ]
+            },
+            {
+              "id": "K4.2.04",
+              "title": "等价凸问题与拟凸优化",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "4.3",
+          "title": "线性优化",
+          "source_ranges": [
+            "S001:chapter:4.3"
+          ],
+          "target_note": "4 凸优化问题/4.3 线性优化.md",
+          "knowledge_points": [
+            {
+              "id": "K4.3.01",
+              "title": "线性规划的形式",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.3"
+              ]
+            },
+            {
+              "id": "K4.3.02",
+              "title": "教材中的建模例子",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.3"
+              ]
+            },
+            {
+              "id": "K4.3.03",
+              "title": "线性分式规划",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "4.4",
+          "title": "二次优化",
+          "source_ranges": [
+            "S001:chapter:4.4"
+          ],
+          "target_note": "4 凸优化问题/4.4 二次优化.md",
+          "knowledge_points": [
+            {
+              "id": "K4.4.01",
+              "title": "QP 与 QCQP",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.4"
+              ]
+            },
+            {
+              "id": "K4.4.02",
+              "title": "投资组合与随机量",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.4"
+              ]
+            },
+            {
+              "id": "K4.4.03",
+              "title": "二阶锥规划",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.4"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "4.5",
+          "title": "几何规划",
+          "source_ranges": [
+            "S001:chapter:4.5"
+          ],
+          "target_note": "4 凸优化问题/4.5 几何规划.md",
+          "knowledge_points": [
+            {
+              "id": "K4.5.01",
+              "title": "单项式与多项式",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.5"
+              ]
+            },
+            {
+              "id": "K4.5.02",
+              "title": "对数变换成凸问题",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.5"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "4.6",
+          "title": "广义不等式约束",
+          "source_ranges": [
+            "S001:chapter:4.6"
+          ],
+          "target_note": "4 凸优化问题/4.6 广义不等式约束.md",
+          "knowledge_points": [
+            {
+              "id": "K4.6.01",
+              "title": "锥约束与锥形式",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.6"
+              ]
+            },
+            {
+              "id": "K4.6.02",
+              "title": "半定规划",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.6"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "4.7",
+          "title": "向量优化",
+          "source_ranges": [
+            "S001:chapter:4.7"
+          ],
+          "target_note": "4 凸优化问题/4.7 向量优化.md",
+          "knowledge_points": [
+            {
+              "id": "K4.7.01",
+              "title": "锥序下的向量目标",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.7"
+              ]
+            },
+            {
+              "id": "K4.7.02",
+              "title": "标量化与权衡",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:4.7"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "对偶",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:5"
+      ],
+      "mind_map": "5 对偶/5.0 对偶思维导图.md",
+      "sections": [
+        {
+          "number": "5.1",
+          "title": "拉格朗日对偶函数",
+          "source_ranges": [
+            "S001:chapter:5.1"
+          ],
+          "target_note": "5 对偶/5.1 拉格朗日对偶函数.md",
+          "knowledge_points": [
+            {
+              "id": "K5.1.01",
+              "title": "Lagrangian 与下界",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:5.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "5.2",
+          "title": "拉格朗日对偶问题",
+          "source_ranges": [
+            "S001:chapter:5.2"
+          ],
+          "target_note": "5 对偶/5.2 拉格朗日对偶问题.md",
+          "knowledge_points": [
+            {
+              "id": "K5.2.01",
+              "title": "对偶问题、弱对偶与强对偶",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:5.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "5.3",
+          "title": "几何解释",
+          "source_ranges": [
+            "S001:chapter:5.3"
+          ],
+          "target_note": "5 对偶/5.3 几何解释.md",
+          "knowledge_points": [
+            {
+              "id": "K5.3.01",
+              "title": "值集合与支撑超平面",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:5.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "5.4",
+          "title": "鞍点解释",
+          "source_ranges": [
+            "S001:chapter:5.4"
+          ],
+          "target_note": "5 对偶/5.4 鞍点解释.md",
+          "knowledge_points": [
+            {
+              "id": "K5.4.01",
+              "title": "max–min 与鞍点",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:5.4"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "5.5",
+          "title": "最优性条件",
+          "source_ranges": [
+            "S001:chapter:5.5"
+          ],
+          "target_note": "5 对偶/5.5 最优性条件.md",
+          "knowledge_points": [
+            {
+              "id": "K5.5.01",
+              "title": "互补松弛与 KKT",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:5.5"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "5.6",
+          "title": "扰动和灵敏度分析",
+          "source_ranges": [
+            "S001:chapter:5.6"
+          ],
+          "target_note": "5 对偶/5.6 扰动和灵敏度分析.md",
+          "knowledge_points": [
+            {
+              "id": "K5.6.01",
+              "title": "扰动最优值函数",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:5.6"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "5.7",
+          "title": "例子",
+          "source_ranges": [
+            "S001:chapter:5.7"
+          ],
+          "target_note": "5 对偶/5.7 例子.md",
+          "knowledge_points": [
+            {
+              "id": "K5.7.01",
+              "title": "重写问题时的对偶变化",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:5.7"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "5.8",
+          "title": "交替定理",
+          "source_ranges": [
+            "S001:chapter:5.8"
+          ],
+          "target_note": "5 对偶/5.8 交替定理.md",
+          "knowledge_points": [
+            {
+              "id": "K5.8.01",
+              "title": "可行系统与不可行证书",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:5.8"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "5.9",
+          "title": "广义不等式",
+          "source_ranges": [
+            "S001:chapter:5.9"
+          ],
+          "target_note": "5 对偶/5.9 广义不等式.md",
+          "knowledge_points": [
+            {
+              "id": "K5.9.01",
+              "title": "锥乘子下的对偶",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:5.9"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "逼近与拟合",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:6"
+      ],
+      "mind_map": "6 逼近与拟合/6.0 逼近与拟合思维导图.md",
+      "sections": [
+        {
+          "number": "6.1",
+          "title": "范数逼近",
+          "source_ranges": [
+            "S001:chapter:6.1"
+          ],
+          "target_note": "6 逼近与拟合/6.1 范数逼近.md",
+          "knowledge_points": [
+            {
+              "id": "K6.1.01",
+              "title": "加权范数逼近",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:6.1"
+              ]
+            },
+            {
+              "id": "K6.1.02",
+              "title": "三种基本残差范数",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:6.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "6.2",
+          "title": "最小范数问题",
+          "source_ranges": [
+            "S001:chapter:6.2"
+          ],
+          "target_note": "6 逼近与拟合/6.2 最小范数问题.md",
+          "knowledge_points": [
+            {
+              "id": "K6.2.01",
+              "title": "化为范数逼近",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:6.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "6.3",
+          "title": "正则化逼近",
+          "source_ranges": [
+            "S001:chapter:6.3"
+          ],
+          "target_note": "6 逼近与拟合/6.3 正则化逼近.md",
+          "knowledge_points": [
+            {
+              "id": "K6.3.01",
+              "title": "Tikhonov 正则化",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:6.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "6.4",
+          "title": "鲁棒逼近",
+          "source_ranges": [
+            "S001:chapter:6.4"
+          ],
+          "target_note": "6 逼近与拟合/6.4 鲁棒逼近.md",
+          "knowledge_points": [
+            {
+              "id": "K6.4.01",
+              "title": "随机鲁棒最小二乘等于正则化",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:6.4"
+              ]
+            },
+            {
+              "id": "K6.4.02",
+              "title": "有限情景集",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:6.4"
+              ]
+            },
+            {
+              "id": "K6.4.03",
+              "title": "谱范数球不确定性",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:6.4"
+              ]
+            },
+            {
+              "id": "K6.4.04",
+              "title": "各行椭球不确定性",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:6.4"
+              ]
+            },
+            {
+              "id": "K6.4.05",
+              "title": "线性结构不确定性",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:6.4"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "6.5",
+          "title": "函数拟合与插值",
+          "source_ranges": [
+            "S001:chapter:6.5"
+          ],
+          "target_note": "6 逼近与拟合/6.5 函数拟合与插值.md",
+          "knowledge_points": [
+            {
+              "id": "K6.5.01",
+              "title": "凸回归",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:6.5"
+              ]
+            },
+            {
+              "id": "K6.5.02",
+              "title": "单调凸插值",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:6.5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "统计估计",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:7"
+      ],
+      "mind_map": "7 统计估计/7.0 统计估计思维导图.md",
+      "sections": [
+        {
+          "number": "7.1",
+          "title": "参数分布估计",
+          "source_ranges": [
+            "S001:chapter:7.1"
+          ],
+          "target_note": "7 统计估计/7.1 参数分布估计.md",
+          "knowledge_points": [
+            {
+              "id": "K7.1.01",
+              "title": "IID 噪声下的线性测量",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:7.1"
+              ]
+            },
+            {
+              "id": "K7.1.02",
+              "title": "Poisson 计数回归",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:7.1"
+              ]
+            },
+            {
+              "id": "K7.1.03",
+              "title": "Logistic 回归",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:7.1"
+              ]
+            },
+            {
+              "id": "K7.1.04",
+              "title": "Gaussian 协方差估计",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:7.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "7.2",
+          "title": "非参数分布估计",
+          "source_ranges": [
+            "S001:chapter:7.2"
+          ],
+          "target_note": "7 统计估计/7.2 非参数分布估计.md",
+          "knowledge_points": [
+            {
+              "id": "K7.2.01",
+              "title": "最大似然",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:7.2"
+              ]
+            },
+            {
+              "id": "K7.2.02",
+              "title": "最大熵",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:7.2"
+              ]
+            },
+            {
+              "id": "K7.2.03",
+              "title": "最小 KL 散度",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:7.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "7.3",
+          "title": "最优检测与假设检验",
+          "source_ranges": [
+            "S001:chapter:7.3"
+          ],
+          "target_note": "7 统计估计/7.3 最优检测与假设检验.md",
+          "knowledge_points": [
+            {
+              "id": "K7.3.01",
+              "title": "Minimax 与 Bayes 准则",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:7.3"
+              ]
+            },
+            {
+              "id": "K7.3.02",
+              "title": "多目标与损失矩阵",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:7.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "7.4",
+          "title": "Chebyshev 与 Chernoff 界",
+          "source_ranges": [
+            "S001:chapter:7.4"
+          ],
+          "target_note": "7 统计估计/7.4 Chebyshev 与 Chernoff 界.md",
+          "knowledge_points": [
+            {
+              "id": "K7.4.01",
+              "title": "已知一二阶矩时的 SDP",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:7.4"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "7.5",
+          "title": "实验设计",
+          "source_ranges": [
+            "S001:chapter:7.5"
+          ],
+          "target_note": "7 统计估计/7.5 实验设计.md",
+          "knowledge_points": [
+            {
+              "id": "K7.5.01",
+              "title": "D-optimal：最小置信椭球体积",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:7.5"
+              ]
+            },
+            {
+              "id": "K7.5.02",
+              "title": "E-optimal：最小最坏方向方差",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:7.5"
+              ]
+            },
+            {
+              "id": "K7.5.03",
+              "title": "A-optimal：最小总均方误差",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:7.5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "几何问题",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:8"
+      ],
+      "mind_map": "8 几何问题/8.0 几何问题思维导图.md",
+      "sections": [
+        {
+          "number": "8.1",
+          "title": "集合投影",
+          "source_ranges": [
+            "S001:chapter:8.1"
+          ],
+          "target_note": "8 几何问题/8.1 集合投影.md",
+          "knowledge_points": [
+            {
+              "id": "K8.1.01",
+              "title": "距离与投影",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.1"
+              ]
+            },
+            {
+              "id": "K8.1.02",
+              "title": "欧氏投影的显式形式",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.1"
+              ]
+            },
+            {
+              "id": "K8.1.03",
+              "title": "正锥投影与正交分解",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.1"
+              ]
+            },
+            {
+              "id": "K8.1.04",
+              "title": "投影产生分离超平面",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "8.2",
+          "title": "集合间距离",
+          "source_ranges": [
+            "S001:chapter:8.2"
+          ],
+          "target_note": "8 几何问题/8.2 集合间距离.md",
+          "knowledge_points": [
+            {
+              "id": "K8.2.01",
+              "title": "两集合距离",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.2"
+              ]
+            },
+            {
+              "id": "K8.2.02",
+              "title": "距离对偶与严格分离",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.2"
+              ]
+            },
+            {
+              "id": "K8.2.03",
+              "title": "多面体的分离证书",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "8.3",
+          "title": "欧氏距离与角度",
+          "source_ranges": [
+            "S001:chapter:8.3"
+          ],
+          "target_note": "8 几何问题/8.3 欧氏距离与角度.md",
+          "knowledge_points": [
+            {
+              "id": "K8.3.01",
+              "title": "Gram 矩阵统一几何量",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.3"
+              ]
+            },
+            {
+              "id": "K8.3.02",
+              "title": "角度、距离与条件性约束",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.3"
+              ]
+            },
+            {
+              "id": "K8.3.03",
+              "title": "只涉及角度的问题",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.3"
+              ]
+            },
+            {
+              "id": "K8.3.04",
+              "title": "只涉及距离的问题",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "8.4",
+          "title": "极值体积椭球",
+          "source_ranges": [
+            "S001:chapter:8.4"
+          ],
+          "target_note": "8 几何问题/8.4 极值体积椭球.md",
+          "knowledge_points": [
+            {
+              "id": "K8.4.01",
+              "title": "最小体积外接椭球",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.4"
+              ]
+            },
+            {
+              "id": "K8.4.02",
+              "title": "最大体积内接椭球",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.4"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "8.5",
+          "title": "定心",
+          "source_ranges": [
+            "S001:chapter:8.5"
+          ],
+          "target_note": "8 几何问题/8.5 定心.md",
+          "knowledge_points": [
+            {
+              "id": "K8.5.01",
+              "title": "Chebyshev 中心",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.5"
+              ]
+            },
+            {
+              "id": "K8.5.02",
+              "title": "最大体积椭球中心",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.5"
+              ]
+            },
+            {
+              "id": "K8.5.03",
+              "title": "解析中心",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.5"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "8.6",
+          "title": "分类",
+          "source_ranges": [
+            "S001:chapter:8.6"
+          ],
+          "target_note": "8 几何问题/8.6 分类.md",
+          "knowledge_points": [
+            {
+              "id": "K8.6.01",
+              "title": "线性判别",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.6"
+              ]
+            },
+            {
+              "id": "K8.6.02",
+              "title": "最大间隔与支持向量",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.6"
+              ]
+            },
+            {
+              "id": "K8.6.03",
+              "title": "Logistic 分类",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.6"
+              ]
+            },
+            {
+              "id": "K8.6.04",
+              "title": "非线性判别",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.6"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "8.7",
+          "title": "放置与选址",
+          "source_ranges": [
+            "S001:chapter:8.7"
+          ],
+          "target_note": "8 几何问题/8.7 放置与选址.md",
+          "knowledge_points": [
+            {
+              "id": "K8.7.01",
+              "title": "图上的放置模型",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.7"
+              ]
+            },
+            {
+              "id": "K8.7.02",
+              "title": "位置约束",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.7"
+              ]
+            },
+            {
+              "id": "K8.7.03",
+              "title": "非线性边代价",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.7"
+              ]
+            },
+            {
+              "id": "K8.7.04",
+              "title": "路径约束与 minimax 延迟",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.7"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "8.8",
+          "title": "平面布局",
+          "source_ranges": [
+            "S001:chapter:8.8"
+          ],
+          "target_note": "8 几何问题/8.8 平面布局.md",
+          "knowledge_points": [
+            {
+              "id": "K8.8.01",
+              "title": "矩形单元与非重叠",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.8"
+              ]
+            },
+            {
+              "id": "K8.8.02",
+              "title": "固定相对位置后的凸化",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.8"
+              ]
+            },
+            {
+              "id": "K8.8.03",
+              "title": "几何规划形式",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:8.8"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "无约束最小化",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:9"
+      ],
+      "mind_map": "9 无约束最小化/9.0 无约束最小化思维导图.md",
+      "sections": [
+        {
+          "number": "9.1",
+          "title": "无约束最小化问题",
+          "source_ranges": [
+            "S001:chapter:9.1"
+          ],
+          "target_note": "9 无约束最小化/9.1 无约束最小化问题.md",
+          "knowledge_points": [
+            {
+              "id": "K9.1.01",
+              "title": "问题与最优性",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.1"
+              ]
+            },
+            {
+              "id": "K9.1.02",
+              "title": "强凸性与 Hessian 界",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "9.2",
+          "title": "下降法",
+          "source_ranges": [
+            "S001:chapter:9.2"
+          ],
+          "target_note": "9 无约束最小化/9.2 下降法.md",
+          "knowledge_points": [
+            {
+              "id": "K9.2.01",
+              "title": "下降方向与基本迭代",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.2"
+              ]
+            },
+            {
+              "id": "K9.2.02",
+              "title": "精确线搜索",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.2"
+              ]
+            },
+            {
+              "id": "K9.2.03",
+              "title": "回溯线搜索",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "9.3",
+          "title": "梯度下降",
+          "source_ranges": [
+            "S001:chapter:9.3"
+          ],
+          "target_note": "9 无约束最小化/9.3 梯度下降.md",
+          "knowledge_points": [
+            {
+              "id": "K9.3.01",
+              "title": "方法",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.3"
+              ]
+            },
+            {
+              "id": "K9.3.02",
+              "title": "强凸情形的线性收敛",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.3"
+              ]
+            },
+            {
+              "id": "K9.3.03",
+              "title": "二次函数上的几何",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "9.4",
+          "title": "最速下降",
+          "source_ranges": [
+            "S001:chapter:9.4"
+          ],
+          "target_note": "9 无约束最小化/9.4 最速下降.md",
+          "knowledge_points": [
+            {
+              "id": "K9.4.01",
+              "title": "任意范数下的最陡方向",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.4"
+              ]
+            },
+            {
+              "id": "K9.4.02",
+              "title": "欧氏与二次范数",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.4"
+              ]
+            },
+            {
+              "id": "K9.4.03",
+              "title": "$\\ell_1$ 范数下的坐标方向",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.4"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "9.5",
+          "title": "牛顿法",
+          "source_ranges": [
+            "S001:chapter:9.5"
+          ],
+          "target_note": "9 无约束最小化/9.5 牛顿法.md",
+          "knowledge_points": [
+            {
+              "id": "K9.5.01",
+              "title": "Newton 步",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.5"
+              ]
+            },
+            {
+              "id": "K9.5.02",
+              "title": "Newton 减量",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.5"
+              ]
+            },
+            {
+              "id": "K9.5.03",
+              "title": "阻尼 Newton 法",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.5"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "9.6",
+          "title": "自协调性",
+          "source_ranges": [
+            "S001:chapter:9.6"
+          ],
+          "target_note": "9 无约束最小化/9.6 自协调性.md",
+          "knowledge_points": [
+            {
+              "id": "K9.6.01",
+              "title": "定义",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.6"
+              ]
+            },
+            {
+              "id": "K9.6.02",
+              "title": "演算规则",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.6"
+              ]
+            },
+            {
+              "id": "K9.6.03",
+              "title": "局部 Hessian 控制",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.6"
+              ]
+            },
+            {
+              "id": "K9.6.04",
+              "title": "自协调函数上的 Newton 复杂度",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.6"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "9.7",
+          "title": "实现",
+          "source_ranges": [
+            "S001:chapter:9.7"
+          ],
+          "target_note": "9 无约束最小化/9.7 实现.md",
+          "knowledge_points": [
+            {
+              "id": "K9.7.01",
+              "title": "函数与导数计算",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.7"
+              ]
+            },
+            {
+              "id": "K9.7.02",
+              "title": "Newton 方程不要显式求逆",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:9.7"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "等式约束最小化",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:10"
+      ],
+      "mind_map": "10 等式约束最小化/10.0 等式约束最小化思维导图.md",
+      "sections": [
+        {
+          "number": "10.1",
+          "title": "等式约束最小化问题",
+          "source_ranges": [
+            "S001:chapter:10.1"
+          ],
+          "target_note": "10 等式约束最小化/10.1 等式约束最小化问题.md",
+          "knowledge_points": [
+            {
+              "id": "K10.1.01",
+              "title": "KKT 方程",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.1"
+              ]
+            },
+            {
+              "id": "K10.1.02",
+              "title": "等式约束凸二次问题",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.1"
+              ]
+            },
+            {
+              "id": "K10.1.03",
+              "title": "消去等式约束",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.1"
+              ]
+            },
+            {
+              "id": "K10.1.04",
+              "title": "对偶求解",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "10.2",
+          "title": "等式约束牛顿法",
+          "source_ranges": [
+            "S001:chapter:10.2"
+          ],
+          "target_note": "10 等式约束最小化/10.2 等式约束牛顿法.md",
+          "knowledge_points": [
+            {
+              "id": "K10.2.01",
+              "title": "可行起点 Newton 步",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.2"
+              ]
+            },
+            {
+              "id": "K10.2.02",
+              "title": "Newton 减量与下降",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.2"
+              ]
+            },
+            {
+              "id": "K10.2.03",
+              "title": "算法",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "10.3",
+          "title": "不可行起点牛顿法",
+          "source_ranges": [
+            "S001:chapter:10.3"
+          ],
+          "target_note": "10 等式约束最小化/10.3 不可行起点牛顿法.md",
+          "knowledge_points": [
+            {
+              "id": "K10.3.01",
+              "title": "原始—对偶残差",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.3"
+              ]
+            },
+            {
+              "id": "K10.3.02",
+              "title": "原始—对偶 Newton 步",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.3"
+              ]
+            },
+            {
+              "id": "K10.3.03",
+              "title": "残差回溯",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "10.4",
+          "title": "实现",
+          "source_ranges": [
+            "S001:chapter:10.4"
+          ],
+          "target_note": "10 等式约束最小化/10.4 实现.md",
+          "knowledge_points": [
+            {
+              "id": "K10.4.01",
+              "title": "KKT 系统的三种解法",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.4"
+              ]
+            },
+            {
+              "id": "K10.4.02",
+              "title": "直接分解",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.4"
+              ]
+            },
+            {
+              "id": "K10.4.03",
+              "title": "Schur 补消元",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.4"
+              ]
+            },
+            {
+              "id": "K10.4.04",
+              "title": "零空间消元",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.4"
+              ]
+            },
+            {
+              "id": "K10.4.05",
+              "title": "结构化应用",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:10.4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "内点法",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:11"
+      ],
+      "mind_map": "11 内点法/11.0 内点法思维导图.md",
+      "sections": [
+        {
+          "number": "11.1",
+          "title": "不等式约束最小化",
+          "source_ranges": [
+            "S001:chapter:11.1"
+          ],
+          "target_note": "11 内点法/11.1 不等式约束最小化.md",
+          "knowledge_points": [
+            {
+              "id": "K11.1.01",
+              "title": "标准问题与 KKT",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.1"
+              ]
+            },
+            {
+              "id": "K11.1.02",
+              "title": "内点法的共同结构",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "11.2",
+          "title": "对数障碍与中心路径",
+          "source_ranges": [
+            "S001:chapter:11.2"
+          ],
+          "target_note": "11 内点法/11.2 对数障碍与中心路径.md",
+          "knowledge_points": [
+            {
+              "id": "K11.2.01",
+              "title": "对数障碍",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.2"
+              ]
+            },
+            {
+              "id": "K11.2.02",
+              "title": "中心路径",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.2"
+              ]
+            },
+            {
+              "id": "K11.2.03",
+              "title": "对偶间隙",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "11.3",
+          "title": "障碍法",
+          "source_ranges": [
+            "S001:chapter:11.3"
+          ],
+          "target_note": "11 内点法/11.3 障碍法.md",
+          "knowledge_points": [
+            {
+              "id": "K11.3.01",
+              "title": "路径跟随算法",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.3"
+              ]
+            },
+            {
+              "id": "K11.3.02",
+              "title": "中心化精度",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.3"
+              ]
+            },
+            {
+              "id": "K11.3.03",
+              "title": "目标缩放与初始点",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "11.4",
+          "title": "可行性与 Phase I",
+          "source_ranges": [
+            "S001:chapter:11.4"
+          ],
+          "target_note": "11 内点法/11.4 可行性与 Phase I.md",
+          "knowledge_points": [
+            {
+              "id": "K11.4.01",
+              "title": "Phase I 问题",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.4"
+              ]
+            },
+            {
+              "id": "K11.4.02",
+              "title": "找等式可行点",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.4"
+              ]
+            },
+            {
+              "id": "K11.4.03",
+              "title": "可行性问题与不等式冗余",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.4"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "11.5",
+          "title": "自协调复杂度",
+          "source_ranges": [
+            "S001:chapter:11.5"
+          ],
+          "target_note": "11 内点法/11.5 自协调复杂度.md",
+          "knowledge_points": [
+            {
+              "id": "K11.5.01",
+              "title": "障碍参数与中心邻域",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.5"
+              ]
+            },
+            {
+              "id": "K11.5.02",
+              "title": "迭代复杂度",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.5"
+              ]
+            },
+            {
+              "id": "K11.5.03",
+              "title": "为什么自协调性适用",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.5"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "11.6",
+          "title": "广义不等式",
+          "source_ranges": [
+            "S001:chapter:11.6"
+          ],
+          "target_note": "11 内点法/11.6 广义不等式.md",
+          "knowledge_points": [
+            {
+              "id": "K11.6.01",
+              "title": "锥约束的障碍",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.6"
+              ]
+            },
+            {
+              "id": "K11.6.02",
+              "title": "常用锥障碍",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.6"
+              ]
+            },
+            {
+              "id": "K11.6.03",
+              "title": "SDP 中心条件",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.6"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "11.7",
+          "title": "原始-对偶内点法",
+          "source_ranges": [
+            "S001:chapter:11.7"
+          ],
+          "target_note": "11 内点法/11.7 原始-对偶内点法.md",
+          "knowledge_points": [
+            {
+              "id": "K11.7.01",
+              "title": "扰动 KKT 残差",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.7"
+              ]
+            },
+            {
+              "id": "K11.7.02",
+              "title": "Newton 系统",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.7"
+              ]
+            },
+            {
+              "id": "K11.7.03",
+              "title": "代理间隙与参数更新",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.7"
+              ]
+            },
+            {
+              "id": "K11.7.04",
+              "title": "线搜索与停止",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.7"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "11.8",
+          "title": "实现",
+          "source_ranges": [
+            "S001:chapter:11.8"
+          ],
+          "target_note": "11 内点法/11.8 实现.md",
+          "knowledge_points": [
+            {
+              "id": "K11.8.01",
+              "title": "每步计算核心",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.8"
+              ]
+            },
+            {
+              "id": "K11.8.02",
+              "title": "消元顺序",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.8"
+              ]
+            },
+            {
+              "id": "K11.8.03",
+              "title": "数值稳健性",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:11.8"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "附录 A：数学背景",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:12"
+      ],
+      "mind_map": "12 附录 A：数学背景/12.0 附录 A：数学背景思维导图.md",
+      "sections": [
+        {
+          "number": "12.1",
+          "title": "范数",
+          "source_ranges": [
+            "S001:chapter:12.1"
+          ],
+          "target_note": "12 附录 A：数学背景/12.1 范数.md",
+          "knowledge_points": [
+            {
+              "id": "K12.1.01",
+              "title": "内积、欧氏范数与角度",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.1"
+              ]
+            },
+            {
+              "id": "K12.1.02",
+              "title": "范数与单位球",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.1"
+              ]
+            },
+            {
+              "id": "K12.1.03",
+              "title": "算子范数与对偶范数",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "12.2",
+          "title": "分析",
+          "source_ranges": [
+            "S001:chapter:12.2"
+          ],
+          "target_note": "12 附录 A：数学背景/12.2 分析.md",
+          "knowledge_points": [
+            {
+              "id": "K12.2.01",
+              "title": "开集、闭集与边界",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.2"
+              ]
+            },
+            {
+              "id": "K12.2.02",
+              "title": "上确界与下确界",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "12.3",
+          "title": "函数",
+          "source_ranges": [
+            "S001:chapter:12.3"
+          ],
+          "target_note": "12 附录 A：数学背景/12.3 函数.md",
+          "knowledge_points": [
+            {
+              "id": "K12.3.01",
+              "title": "函数、定义域与值域",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.3"
+              ]
+            },
+            {
+              "id": "K12.3.02",
+              "title": "连续性",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.3"
+              ]
+            },
+            {
+              "id": "K12.3.03",
+              "title": "闭函数",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "12.4",
+          "title": "导数",
+          "source_ranges": [
+            "S001:chapter:12.4"
+          ],
+          "target_note": "12 附录 A：数学背景/12.4 导数.md",
+          "knowledge_points": [
+            {
+              "id": "K12.4.01",
+              "title": "导数与梯度",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.4"
+              ]
+            },
+            {
+              "id": "K12.4.02",
+              "title": "链式法则",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.4"
+              ]
+            },
+            {
+              "id": "K12.4.03",
+              "title": "二阶导数",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.4"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "12.5",
+          "title": "线性代数",
+          "source_ranges": [
+            "S001:chapter:12.5"
+          ],
+          "target_note": "12 附录 A：数学背景/12.5 线性代数.md",
+          "knowledge_points": [
+            {
+              "id": "K12.5.01",
+              "title": "值域、零空间与正交分解",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.5"
+              ]
+            },
+            {
+              "id": "K12.5.02",
+              "title": "特征分解、正定性与平方根",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.5"
+              ]
+            },
+            {
+              "id": "K12.5.03",
+              "title": "SVD 与伪逆",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.5"
+              ]
+            },
+            {
+              "id": "K12.5.04",
+              "title": "Schur 补",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:12.5"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "附录 B：两个二次函数问题",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:13"
+      ],
+      "mind_map": "13 附录 B：两个二次函数问题/13.0 附录 B：两个二次函数问题思维导图.md",
+      "sections": [
+        {
+          "number": "13.1",
+          "title": "单约束二次优化",
+          "source_ranges": [
+            "S001:chapter:13.1"
+          ],
+          "target_note": "13 附录 B：两个二次函数问题/13.1 单约束二次优化.md",
+          "knowledge_points": [
+            {
+              "id": "K13.1.01",
+              "title": "非凸 QCQP 与其对偶",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:13.1"
+              ]
+            },
+            {
+              "id": "K13.1.02",
+              "title": "SDP 松弛",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:13.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "13.2",
+          "title": "S-Procedure",
+          "source_ranges": [
+            "S001:chapter:13.2"
+          ],
+          "target_note": "13 附录 B：两个二次函数问题/13.2 S-Procedure.md",
+          "knowledge_points": [
+            {
+              "id": "K13.2.01",
+              "title": "二次蕴含的 LMI 证书",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:13.2"
+              ]
+            },
+            {
+              "id": "K13.2.02",
+              "title": "强二择一形式",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:13.2"
+              ]
+            },
+            {
+              "id": "K13.2.03",
+              "title": "椭球包含",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:13.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "13.3",
+          "title": "两个对称矩阵的数值域",
+          "source_ranges": [
+            "S001:chapter:13.3"
+          ],
+          "target_note": "13 附录 B：两个二次函数问题/13.3 两个对称矩阵的数值域.md",
+          "knowledge_points": [
+            {
+              "id": "K13.3.01",
+              "title": "两个二次型的联合像",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:13.3"
+              ]
+            },
+            {
+              "id": "K13.3.02",
+              "title": "PSD 提升不扩大二维像",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:13.3"
+              ]
+            },
+            {
+              "id": "K13.3.03",
+              "title": "构造思路",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:13.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "13.4",
+          "title": "强对偶结果的证明",
+          "source_ranges": [
+            "S001:chapter:13.4"
+          ],
+          "target_note": "13 附录 B：两个二次函数问题/13.4 强对偶结果的证明.md",
+          "knowledge_points": [
+            {
+              "id": "K13.4.01",
+              "title": "从 LMI 二择一到 S-procedure",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:13.4"
+              ]
+            },
+            {
+              "id": "K13.4.02",
+              "title": "从 S-procedure 到单约束强对偶",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:13.4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "附录 C：数值线性代数",
+      "status": "verified",
+      "source_ranges": [
+        "S001:chapter:14"
+      ],
+      "mind_map": "14 附录 C：数值线性代数/14.0 附录 C：数值线性代数思维导图.md",
+      "sections": [
+        {
+          "number": "14.1",
+          "title": "矩阵结构与复杂度",
+          "source_ranges": [
+            "S001:chapter:14.1"
+          ],
+          "target_note": "14 附录 C：数值线性代数/14.1 矩阵结构与复杂度.md",
+          "knowledge_points": [
+            {
+              "id": "K14.1.01",
+              "title": "结构决定算法",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.1"
+              ]
+            },
+            {
+              "id": "K14.1.02",
+              "title": "flop 计数",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.1"
+              ]
+            },
+            {
+              "id": "K14.1.03",
+              "title": "优化中的复杂度分层",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.1"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.2",
+          "title": "用分解矩阵解方程",
+          "source_ranges": [
+            "S001:chapter:14.2"
+          ],
+          "target_note": "14 附录 C：数值线性代数/14.2 用分解矩阵解方程.md",
+          "knowledge_points": [
+            {
+              "id": "K14.2.01",
+              "title": "容易求解的矩阵",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.2"
+              ]
+            },
+            {
+              "id": "K14.2.02",
+              "title": "factor-solve 模式",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.2"
+              ]
+            },
+            {
+              "id": "K14.2.03",
+              "title": "数值原则",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.2"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.3",
+          "title": "LU、Cholesky 与 LDLT",
+          "source_ranges": [
+            "S001:chapter:14.3"
+          ],
+          "target_note": "14 附录 C：数值线性代数/14.3 LU、Cholesky 与 LDLT.md",
+          "knowledge_points": [
+            {
+              "id": "K14.3.01",
+              "title": "LU 分解",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.3"
+              ]
+            },
+            {
+              "id": "K14.3.02",
+              "title": "Cholesky 分解",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.3"
+              ]
+            },
+            {
+              "id": "K14.3.03",
+              "title": "$LDL^T$ 分解",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.3"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.4",
+          "title": "分块消元与 Schur 补",
+          "source_ranges": [
+            "S001:chapter:14.4"
+          ],
+          "target_note": "14 附录 C：数值线性代数/14.4 分块消元与 Schur 补.md",
+          "knowledge_points": [
+            {
+              "id": "K14.4.01",
+              "title": "消去一块变量",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.4"
+              ]
+            },
+            {
+              "id": "K14.4.02",
+              "title": "结构传播",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.4"
+              ]
+            },
+            {
+              "id": "K14.4.03",
+              "title": "矩阵求逆引理",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.4"
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.5",
+          "title": "欠定方程",
+          "source_ranges": [
+            "S001:chapter:14.5"
+          ],
+          "target_note": "14 附录 C：数值线性代数/14.5 欠定方程.md",
+          "knowledge_points": [
+            {
+              "id": "K14.5.01",
+              "title": "方程与自由变量",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.5"
+              ]
+            },
+            {
+              "id": "K14.5.02",
+              "title": "选取非奇异子矩阵",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.5"
+              ]
+            },
+            {
+              "id": "K14.5.03",
+              "title": "QR 方法",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.5"
+              ]
+            },
+            {
+              "id": "K14.5.04",
+              "title": "矩形 LU 与用途",
+              "coverage_status": "原资料覆盖",
+              "writing_status": "已核查",
+              "confidence": "high",
+              "source_refs": [
+                "S001:chapter:14.5"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 2,
+  "course_name": "凸优化",
+  "created_at": "2026-08-22T01:06:57+08:00",
+  "source_files": [
+    {
+      "id": "S001",
+      "path": "E:\\Obsdian\\Script\\Research Lab\\docs\\convex-optimization-source-cache\\book\\full.md",
+      "media_type": "markdown",
+      "status": "verified",
+      "total_units": 14,
+      "processed_units": [
+        "chapter:1", "chapter:2", "chapter:3", "chapter:4", "chapter:5", "chapter:6", "chapter:7",
+        "chapter:8", "chapter:9", "chapter:10", "chapter:11", "appendix:A", "appendix:B", "appendix:C"
+      ],
+      "verified_units": [
+        "chapter:1", "chapter:2", "chapter:3", "chapter:4", "chapter:5", "chapter:6", "chapter:7",
+        "chapter:8", "chapter:9", "chapter:10", "chapter:11", "appendix:A", "appendix:B", "appendix:C"
+      ],
+      "notes": [
+        "Primary sequential reading source. All 11 chapters and appendices A-C were read chapter by chapter and used for section notes."
+      ]
+    },
+    {
+      "id": "S002",
+      "path": "E:\\Obsdian\\Script\\Research Lab\\docs\\convex-optimization-source-cache\\slides\\full.md",
+      "media_type": "markdown",
+      "status": "verified",
+      "total_units": null,
+      "processed_units": ["slide:53", "slide:95", "slide:174", "slide:195"],
+      "verified_units": ["slide:53", "slide:95", "slide:174", "slide:195"],
+      "notes": [
+        "Supplementary slide extraction used selectively to corroborate convex functions, convex standard form, KKT conditions, and norm approximation; it was not used as a replacement for the textbook."
+      ]
+    },
+    {
+      "id": "S003",
+      "path": "E:\\Obsdian\\Script\\Research Lab\\基础知识\\2026暑假学习\\凸优化\\Boyd和Vandenberghe - 2023 - Convex optimization.pdf",
+      "media_type": "pdf",
+      "status": "verified",
+      "total_units": 14,
+      "processed_units": [
+        "chapter:1:sample:pdf-15,21", "chapter:2:sample:pdf-35,41", "chapter:3:sample:pdf-81,93",
+        "chapter:4:sample:pdf-141,160", "chapter:5:sample:pdf-229,255", "chapter:6:sample:pdf-305,332",
+        "chapter:7:sample:pdf-365,388", "chapter:8:sample:pdf-411,424", "chapter:9:sample:pdf-471,498",
+        "chapter:10:sample:pdf-535,545", "chapter:11:sample:pdf-575,582", "appendix:A:sample:pdf-647,654",
+        "appendix:B:sample:pdf-667,669", "appendix:C:sample:pdf-675,686"
+      ],
+      "verified_units": [
+        "chapter:1:sample:pdf-15,21", "chapter:2:sample:pdf-35,41", "chapter:3:sample:pdf-81,93",
+        "chapter:4:sample:pdf-141,160", "chapter:5:sample:pdf-229,255", "chapter:6:sample:pdf-305,332",
+        "chapter:7:sample:pdf-365,388", "chapter:8:sample:pdf-411,424", "chapter:9:sample:pdf-471,498",
+        "chapter:10:sample:pdf-535,545", "chapter:11:sample:pdf-575,582", "appendix:A:sample:pdf-647,654",
+        "appendix:B:sample:pdf-667,669", "appendix:C:sample:pdf-675,686"
+      ],
+      "notes": [
+        "714-page original textbook PDF. Two representative pages per chapter/appendix were visually sampled for chapter boundaries, formulas, diagrams/examples, and Markdown conversion fidelity.",
+        "This record is a chapter-level sampling audit, not a claim that all 714 PDF pages were visually inspected."
+      ]
+    },
+    {
+      "id": "S004",
+      "path": "E:\\Zotero\\storage\\9C4M239E\\Boyd和Vandenberghe - Convex Optimization.pdf",
+      "media_type": "pdf",
+      "status": "verified",
+      "total_units": null,
+      "processed_units": ["slide:53", "slide:95", "slide:174", "slide:195"],
+      "verified_units": ["slide:53", "slide:95", "slide:174", "slide:195"],
+      "notes": [
+        "402-page course slide PDF. The four listed pages were visually checked against the extracted slide Markdown.",
+        "This was a selective corroboration source, not a full-slide visual audit."
+      ]
+    }
+  ]
+}
